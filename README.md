@@ -1,2 +1,5 @@
 # matplotlib-barrage
-Barrage plain-language clone of fitzyracing1/matplotlib
+
+Barrage clone of [fitzyracing1/matplotlib](https://github.com/fitzyracing1/matplotlib).
+
+Read [listing.barrage](listing.barrage).
